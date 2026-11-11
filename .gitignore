@@ -1,1 +1,17 @@
+# Archivos de entorno y contraseñas
+.env
+secretos.json
 hola3.py
+
+# Carpetas pesadas o autogeneradas
+node_modules/
+dist/
+__pycache__/
+
+# Comodines (Wildcards): 
+# Usa un asterisco * para ignorar 
+# todos los archivos de un mismo tipo
+*.mp4
+*.mov
+*.zip
+
